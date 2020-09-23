@@ -1,24 +1,29 @@
-import React from 'react';
+import React, { Component } from "react";
 
-import './App.css';
+import "./App.css";
+import Navbar from "./Components/Navbar";
 
+class App extends Component {
+  constructor(props) {
+    super(props);
 
-import { Menu } from 'semantic-ui-react'
+    this.state = {
+      activeItem: 3,
+    };
+  }
 
-const items = [
-  { key: 'editorials', active: true, name: 'Editorials' },
-  { key: 'review', name: 'Reviews' },
-  { key: 'events', name: 'Upcoming Events' },
-]
-
-const MenuExampleProps = () => <Menu items={items} />
-
-function App() {
-  return (
-    <div className="App">
-     <MenuExampleProps/>
-    </div>
-  );
+  render() {
+    return (
+      <div>
+        <div className="App">
+          <Navbar
+            activeItem={this.state.activeItem}
+            call_back={this.handle_item}
+          />
+        </div>
+      </div>
+    );
+  }
 }
 
 export default App;

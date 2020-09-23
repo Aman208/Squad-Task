@@ -1,0 +1,194 @@
+{
+  "pricingData": [
+     {
+        "averageHomePrice": "$100k-$200k",
+        "key": 1,
+        "package_list": [
+           {
+              "planName": "Qualified 20",
+              "qualified_leads_permonth": 20,
+              "price_per_live_transfer": "69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 40",
+              "qualified_leads_permonth": 40,
+              "price_per_live_transfer": "$65",
+              "total_qualified_lead_price": "$2680",
+              "total_platformprice": "$599",
+              "final_package_price": "$3279"
+           },
+           {
+              "planName": "Qualified 60",
+              "qualified_leads_permonth": 60,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 80",
+              "qualified_leads_permonth": 80,
+              "price_per_live_transfer": "$67",
+              "total_qualified_lead_price": "$2380",
+              "total_platformprice": "$699",
+              "final_package_price": "$4579"
+           }
+        ]
+     },
+     {
+        "averageHomePrice": "$200k-$300k",
+        "key": 2,
+        "package_list": [
+           {
+              "planName": "Qualified 20",
+              "qualified_leads_permonth": 20,
+              "price_per_live_transfer": "$79",
+              "total_qualified_lead_price": "$1580",
+              "total_platformprice": "$299",
+              "final_package_price": "$1879"
+           },
+           {
+              "planName": "Qualified 40",
+              "qualified_leads_permonth": 40,
+              "price_per_live_transfer": "$79",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 60",
+              "qualified_leads_permonth": 60,
+              "price_per_live_transfer": "$79",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 80",
+              "qualified_leads_permonth": 80,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           }
+        ]
+     },
+     {
+        "averageHomePrice": "$300k-$400k",
+        "key": 3,
+        "package_list": [
+           {
+              "planName": "Qualified 20",
+              "qualified_leads_permonth": 20,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 40",
+              "qualified_leads_permonth": 40,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 60",
+              "qualified_leads_permonth": 60,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 80",
+              "qualified_leads_permonth": 80,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           }
+        ]
+     },
+     {
+        "averageHomePrice": "$400k-$500k",
+        "key": 4,
+        "package_list": [
+           {
+              "planName": "Qualified 20",
+              "qualified_leads_permonth": 20,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 40",
+              "qualified_leads_permonth": 40,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 60",
+              "qualified_leads_permonth": 60,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 80",
+              "qualified_leads_permonth": 80,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           }
+        ]
+     },
+     {
+        "averageHomePrice": "$500+",
+        "key": 5,
+        "package_list": [
+           {
+              "planName": "Qualified 20",
+              "qualified_leads_permonth": 20,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 40",
+              "qualified_leads_permonth": 40,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 60",
+              "qualified_leads_permonth": 60,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           },
+           {
+              "planName": "Qualified 80",
+              "qualified_leads_permonth": 80,
+              "price_per_live_transfer": "$69",
+              "total_qualified_lead_price": "$1380",
+              "total_platformprice": "$299",
+              "final_package_price": "$1679"
+           }
+        ]
+     }
+  ]
+}
